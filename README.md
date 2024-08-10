@@ -31,6 +31,6 @@ The Rider App is a Flutter application designed to manage and maintain rider rec
    ```bash
     flutter run
 
-##Authors
+## Authors
 Suraj singh sajwan - [GitHub](https://github.com/surajsajwan00)
    
